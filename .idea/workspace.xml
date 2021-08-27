@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac05dfa9-3477-43c5-83bb-61c5e09eb0fd" name="Changes" comment="Complete 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex02.java" afterDir="false" />
+    <list default="true" id="ac05dfa9-3477-43c5-83bb-61c5e09eb0fd" name="Changes" comment="Completed">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex02.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +63,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ex02" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pelaez.Alejandro.ex02" />
+    <configuration name="ex03" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pelaez.Alejandro.ex03" />
       <module name="Pelaez-COP3330-ex01" />
       <extension name="coverage">
         <pattern>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630032532723</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed">
+      <created>1630033568758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630033568758</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,10 +134,14 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Complete" />
     <MESSAGE value="Complete 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete 2" />
+    <MESSAGE value="Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pelaez_COP3330_ex01$ex1.ic" NAME="ex1 Coverage Results" MODIFIED="1630032855145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pelaez.Alejandro.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Pelaez_COP3330_ex02$ex02.ic" NAME="ex02 Coverage Results" MODIFIED="1630034654040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Pelaez.Alejandro.*</FILTER>
     </SUITE>
   </component>
