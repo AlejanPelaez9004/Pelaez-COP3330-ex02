@@ -5,13 +5,13 @@
 package Pelaez.Alejandro;
 import java.util.Scanner;
 
-public class ex1 {
+public class ex02 {
     public static void main(String[] args)
     {
-        System.out.print("What is your name?");
+        System.out.print("What is the input string? ");
         Scanner input = new Scanner(System.in);
-        String name = input.next();
-        System.out.print("Hello " + name + ", nice to meet you!");
+        String string = input.next();
+        System.out.print(string + " has " + string.length() + " characters.");
         System.out.print("\n");
     }
 }
